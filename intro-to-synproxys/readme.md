@@ -19,7 +19,7 @@ Total bits: 26 (Per pass)
 
 
 # How we mitigate 200 gb/s TCP DDos attacks.
-Intelligence Hosting - Here at Intelligence Hosting we mitigate up to terabytes worth of DDos attacks and help against many other exploits like RCE injection you can contact us @ Ohiocloud.net 
+Intelligence Hosting - Here at Intelligence Hosting we mitigate up to tb/s worth of DDos attacks and help against many other exploits like RCE injection you can contact us @ Ohiocloud.net 
 
 ![Providers](https://cdn.discordapp.com/attachments/957362982248153179/968006391111487538/unknown.png)
 
