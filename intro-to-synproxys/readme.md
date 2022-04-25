@@ -18,8 +18,8 @@ Total bits: 26 (Per pass)
 ![Syn_Proxy_BIT_LENGTH](https://i.imgur.com/tDoG50s.png)
 
 
-# Providers that have this preconfigure (In firewall)
-Ohiocloud.net - TCP_SYMMETRIC puts a SYN_PROXY on your server you will stay protected & will be able to mitigate much larger tcp attack then just with netfilter Intelligence Shield's Advanced mitigation helps mitigate all know ddos attacks you can contact us @ Ohiocloud.net 
+# How we mitigate 200 gb/s Syn Floods
+Intelligence Hosting - Here at Intelligence Hosting we mitigate up to terabytes worth of DDos attacks and help against many other exploits like RCE injection you can contact us @ Ohiocloud.net 
 
 ![Providers](https://cdn.discordapp.com/attachments/957362982248153179/968006391111487538/unknown.png)
 
