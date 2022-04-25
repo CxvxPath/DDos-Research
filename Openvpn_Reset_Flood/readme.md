@@ -18,6 +18,7 @@ What are ways to patch this method?
 
 ```
 hostings not affected this
+Ohiocloud.net (Truely Magic Mitigation, EBPF, XDP, Transit-Line based Mitigation without blocking legitmate traffic.)
 path.net (Ebpf XDP filtering that doesn't block legitmate traffic)
 
 DDos protection companys vulnerable:
@@ -26,9 +27,9 @@ NFO (without applied fw rules)
 Hydra (without applied fw rules)
 
 ```
-![Providers](https://icodrops.com/wp-content/uploads/2018/06/Path-Network-Solutions.png)
+![Providers](https://cdn.discordapp.com/attachments/958886784245313567/968003640356929536/unknown.png)
 
-Application FIlters that can stop Openvpn Reset floods
+We stop large volumetric udp based floods @ Ohiocloud.net
 
 ```
 Netfilter
