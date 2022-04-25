@@ -19,9 +19,9 @@ Total bits: 26 (Per pass)
 
 
 # Providers that have this preconfigure (In firewall)
-Path.net - TCP_SYMMETRIC puts a SYN_PROXY on your server you will stay protected & will be able to mitigate much larger tcp attack then just with netfilter as ebpf/xdp mitigation helps mitigate all know ddos attacks you can contact us @ Path.net 
+Ohiocloud.net - TCP_SYMMETRIC puts a SYN_PROXY on your server you will stay protected & will be able to mitigate much larger tcp attack then just with netfilter Intelligence Shield's Advanced mitigation helps mitigate all know ddos attacks you can contact us @ Ohiocloud.net 
 
-![Providers](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficodrops.com%2Fwp-content%2Fuploads%2F2018%2F06%2FPath-Network-Main.jpg&f=1&nofb=1)
+![Providers](https://cdn.discordapp.com/attachments/957362982248153179/968006391111487538/unknown.png)
 
 
 # Setup
@@ -47,22 +47,4 @@ iptables -A INPUT -m state --state INVALID -j DROP
 | SYN flood | 2,869,824 PPS |
 | SYN-ACK flood | 5,653,120 PPS |
 | ACK flood | 4,948,480 PPS |
-
-
-# Credits 
-
-Credits to one our Network engineers for Helping clarify context to this article
-``` https://gitlab.com/cryptio/ddos-research/ ```
-Credits to the nftables post for the images / Bit_to_int
-``` https://wiki.nftables.org/wiki-nftables/index.php/Synproxy ``` 
-
-
-# Conclusion 
-This doesn't mitigate all SYN based floods however it's good at handling more SYN traffic. Every server is vulenerable to SYN floods we @ Path Networks LLC help 
-mitigate all known SYN_FLOODS to better innovate and protect todays network flods. - Cxvx
-
-
-
-
-
 
