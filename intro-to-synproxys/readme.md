@@ -18,7 +18,7 @@ Total bits: 26 (Per pass)
 ![Syn_Proxy_BIT_LENGTH](https://i.imgur.com/tDoG50s.png)
 
 
-# How we mitigate 200 gb/s Syn Floods
+# How we mitigate 200 gb/s TCP DDos attacks.
 Intelligence Hosting - Here at Intelligence Hosting we mitigate up to terabytes worth of DDos attacks and help against many other exploits like RCE injection you can contact us @ Ohiocloud.net 
 
 ![Providers](https://cdn.discordapp.com/attachments/957362982248153179/968006391111487538/unknown.png)
